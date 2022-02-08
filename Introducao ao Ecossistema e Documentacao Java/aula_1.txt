@@ -1,0 +1,12 @@
+
+		** Entendendo a JVM
+
+	O que é a JVM => (Java Virtual Machine) responsavel pela tradução dos ByteCodes oriundos do compilador Java em código de máquina de cada SO.
+
+	Características : Execução das pilhas, gerenciamento de memória, otimização de código, Garbage Collector (GC)
+
+	JRE : (Java Runtime Environment) responsável por executar os programas em Java.
+
+	JDK : (Java Development Kit) utilitários que permite o desenvolvimento de programas em Java. Já possui a JVM para executar os programas.
+
+	
