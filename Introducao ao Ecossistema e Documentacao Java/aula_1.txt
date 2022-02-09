@@ -38,3 +38,22 @@
 	Switch - Case
 
 	
+		**JavaDoc
+
+	Uma ferramenta para documentação no formato HTML. Os comentarios precisam conter tags para que a documentação fique legível.
+
+		**Tags JavaDoc
+
+	- @author : especifica o autor da classe ou do método
+	- @deprecated : Identifica classes ou métodos obsoletos
+	- @return : descreve o tipo de retorno do método.
+
+
+		**Comunidade Java
+
+	OpenSanca - opensanca.com.br
+	SouJava - soujava.org.br
+	DevOpsPBS - devopspbs.org
+
+	
+
