@@ -9,4 +9,32 @@
 
 	JDK : (Java Development Kit) utilitários que permite o desenvolvimento de programas em Java. Já possui a JVM para executar os programas.
 
+
+		**Modificadores de acesso
+
+
+	Public : Qualquer classe de qualquer pacote poderá acessar o atributo ou método
+
+	Protected : Qualquer classe definida no mesmo pacote ou subclasse.
+
+	Sem modificador : Apenas classes definidas no mesmo pacote.
+
+	Private : Apenas a própria classe.
+
+
+		**Metodos
+
+	São funções que definem um comportamento de uma classe.
+
+	Construtores : Definem como uma classe será instanciada/construida
+
+	Comum : Definem comportamentos que podem ou nao estar atribuidas as regras de negocio
+
+		
+
+		**Estrutura de Condição
+
+	If - Else
+	Switch - Case
+
 	
