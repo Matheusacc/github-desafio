@@ -1,0 +1,14 @@
+
+	Principais IDEs : Eclipse e Intellij
+
+	**Visão Geral do Curso
+
+	Java : Linguagem de programação orientada a objetos, anos 90, na Empresa Sun Microsystems e em 2008 adquirida pela Oracle.
+
+		- uma linguagem interpretada 
+		- possui um compilador e uma maquina virtual (JVM)
+		- bytecode => .class
+		- Java não é a sua unica linguagem
+
+	IDE : é um software que combina ferramentas comuns de desenvolvimento em uma unica interface gráfica.
+	
