@@ -1,0 +1,50 @@
+  
+
+  		**Conceituação e criação
+
+  	Variavel : um espaço na memória do computador, onde se pode guardar valores.
+
+  	Tipos de variaveis => Instancia : objeto
+  						  Classe : classe
+  						  Local : dentro de métodos
+  						  Parâmetro : na assinatura do método
+
+  	<visibilidade><modificador> tipo nome <valorinicial>
+
+  	visibilidade : public, protected e private
+  	modificador : static e final
+  	tipo : tipo de dado
+  	nome : nome que é fornecido a variável
+  	valor inicial : um valor inicial caso se deseje.
+
+  	as variaveis não podem começar com numeros.
+  	são case-sensitive
+  	sem espaços
+
+
+  		**Tipos de dado
+
+  	estática (forte) x Dinamico (fraco)
+  	primitivo x composto
+
+  	tipos : textual, numeral, logico e objeto
+
+
+  		**Operdadores aritméticos
+
+  	são simbolos especiais quais são capazes de realizar ações específicas em um, dois ou mais operandos e, em seguida, retornar um resultado
+
+  	tipos : pós fixado : exp++ ou exp--
+  	        prefixado : ++exp ou --exp
+  	        aritmetico : +,-,*/, %
+  	        atribuição : =, +=, -=, *=, /= e %=
+
+
+  	    **Conversões (casting)
+
+  	    é a transformação de uma determinada variavel de tipo menos especifico para um tipo mais especifico ou viceversa
+
+  	    tipos : Upcast (implicito) Downcast (explicito)
+
+
+
